@@ -1,5 +1,6 @@
 # Face Recognition Web Application
 ### This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+- Made during ZTM Academy Complete Web Developer Course 2022.
 ---
 # Used Concepts
 - React, JavaScript, HTML, CSS
