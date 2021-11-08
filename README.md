@@ -4,6 +4,7 @@
 # Used Concepts
 - React, JavaScript, HTML, CSS
 - npm and libraries like tachyons
+- Heroku (for deploying the Frontend and also the Backend)
 - Clarifai AI API which detects faces (https://www.clarifai.com/models/ai-face-detection)
 ---
 # Functionalities
