@@ -14,6 +14,8 @@ import './App.css';
 //   apiKey: '1b2d2e2e53ff4645a425443f79cc08a1'
 // })
 
+// https://face-recognition-paul.herokuapp.com/
+
 const particlesOptions={
         fpsLimit: 60,
         interactivity: {
