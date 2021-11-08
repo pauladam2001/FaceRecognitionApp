@@ -12,3 +12,10 @@
 - Sign Out
 - Users inserts an URL and the app will highlight the face in the image
 - Shows the number of submitted images
+# Demo
+- Register:
+- ![register](https://user-images.githubusercontent.com/72084877/140733158-ad65f053-683a-499c-b893-4c0481b5000d.png)
+- Sign In:
+- ![signin](https://user-images.githubusercontent.com/72084877/140733205-1a004b1e-ede6-4197-9405-7aec454060bd.png)
+- Main Window:
+- ![main](https://user-images.githubusercontent.com/72084877/140733246-2720d63f-e6d8-4693-8bed-2c5f261eb5f8.png)
